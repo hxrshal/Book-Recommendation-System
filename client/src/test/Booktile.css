@@ -1,0 +1,17 @@
+.book-tile{
+    border: 1px solid blue;
+    justify-content: center;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    /* margin-right: 1000px;
+    margin: 0px 800px; */
+    margin-left: 20px;
+}
+
+.title-for-book{
+
+}
+
+.img-for-book{
+    height: 300px;
+}
